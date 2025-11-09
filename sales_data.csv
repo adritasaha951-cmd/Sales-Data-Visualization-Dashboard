@@ -1,0 +1,13 @@
+Month,Revenue,Quantity,Category,Region,CustomerSegment
+Jan,80000,400,Electronics,North,Retail
+Feb,95000,500,Clothing,South,Wholesale
+Mar,72000,420,Furniture,West,Online
+Apr,85000,460,Toys,North,Retail
+May,110000,540,Food,East,Online
+Jun,105000,520,Electronics,West,Retail
+Jul,98000,480,Clothing,East,Wholesale
+Aug,115000,560,Furniture,South,Online
+Sep,102000,490,Toys,North,Retail
+Oct,120000,580,Food,South,Online
+Nov,125000,590,Electronics,West,Retail
+Dec,130000,610,Clothing,East,Wholesale
